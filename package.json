@@ -1,6 +1,6 @@
 {
-  "name": "react-forge",
-  "version": "1.0.0",
+  "name": "react-forger",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
     "commander": "^9.4.1"
   },
   "bin": {
-    "react-forge": "./index.js"
+    "react-forger": "./index.js"
   }
 }
